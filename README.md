@@ -90,10 +90,11 @@ Este proyecto es de código abierto y está disponible para uso personal y educa
 
 ## 👨‍💻 Autor
 
-**Andrés Hincapié**
+**Andrés Hincapié Ruiz**
 
 ---
 
 ⭐ Si te gustó este proyecto, no olvides darle una estrella en GitHub!
 
 💐 Hecho con amor para celebrar a las mujeres increíbles del mundo 💐
+
