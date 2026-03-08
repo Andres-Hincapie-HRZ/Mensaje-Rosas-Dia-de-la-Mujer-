@@ -1,6 +1,7 @@
 # 🌸 Mensaje Rosas Día de la Mujer
 
 Una experiencia interactiva y emotiva para celebrar el Día Internacional de la Mujer. Crea hermosas flores digitales mientras lees un mensaje especial.
+<img width="1703" height="951" alt="image" src="https://github.com/user-attachments/assets/53c084d9-9708-4b47-8e33-28d38a1ced9f" />
 
 ## ✨ Características
 
@@ -97,4 +98,5 @@ Este proyecto es de código abierto y está disponible para uso personal y educa
 ⭐ Si te gustó este proyecto, no olvides darle una estrella en GitHub!
 
 💐 Hecho con amor para celebrar a las mujeres increíbles del mundo 💐
+
 
